@@ -13,5 +13,11 @@
     {
       "path": "./tsconfig.spec.json"
     }
-]
+],
+"emitDecoratorMetadata": true,
+"experimentalDecorators": true,
+"compilerOptions": {
+  "experimentalDecorators": true,
+  "allowJs": true
+}
 }

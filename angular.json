@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "expense"
+    }
+  },
+  "defaultProject": "expense",
+  "cli": {
+    "analytics": false
+  }
 }
